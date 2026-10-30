@@ -1,0 +1,16 @@
+# 操作系统缓存与元数据
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 编辑器与开发环境
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 临时与备份文件
+*.tmp
+*.bak
+*.log
